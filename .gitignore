@@ -2,4 +2,4 @@
 tsconfig.json
 
 # Ignore compiled JavaScript files!
-js-files/practiceTypescript.js
+js-files!/practiceTypescript.js
