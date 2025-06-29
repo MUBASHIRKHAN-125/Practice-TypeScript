@@ -1,5 +1,5 @@
 "use strict";
-//  Section 1: Basic Type Annotations
+// 📌  Section 1: Basic Type Annotations
 // 1:Declare the following variables with appropriate types:
 let num = 25;
 console.log(num);
@@ -20,3 +20,6 @@ function greetUser(value) {
 }
 ;
 console.log(greetUser("world"));
+//////==============////////////
+// 📌 Section 2: Object Types & Interfaces (15 points)
+let num4 = 45;

@@ -24,3 +24,4 @@ console.log(greetUser("world"));
 
 // 📌 Section 2: Object Types & Interfaces (15 points)
 
+let num4:number = 45;
